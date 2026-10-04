@@ -8,3 +8,5 @@ logs/
 *.log
 # Excel lock files
 ~$*
+# editor settings (local to this machine)
+.vscode/
