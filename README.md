@@ -16,6 +16,12 @@ The bank was formed from a merger of two banks. Its retail selling log (one row 
 | Sales in USD, HKD and CNY | Totals can't be added up |
 | Salesperson IDs typed by hand (`E11`, `E1100`, ` e105 `) | Commission and performance go to the wrong person, or nobody |
 
+## How I approached it
+
+- **Start from the log.** One row per sale sets the grain. From there I looked forward (*how will this be reported, and what will go wrong?*) and backward (*which information needs a single, controlled entry point so the problem can't happen at the source?*).
+- **Data-driven, not requirements-driven.** I was using data from systems I didn't build, not designing a new one. So I worked bottom-up: grouped the log's columns into what people report by (dimensions), then split each by its dependencies until it reached 3NF. This is the textbook top-down route in reverse, passing through the same conceptual, logical and physical levels.
+- **Design order is not data-flow order.** I designed dimension-first, but in the finished system data still flows raw → 3NF → one big table, with the 3NF layer as the single source of truth.
+
 ## The design
 
 **Rule:** the raw log is the landing layer and is never edited. Every fix happens downstream, so every number can be traced back to what was captured.
