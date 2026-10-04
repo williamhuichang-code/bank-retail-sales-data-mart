@@ -1,0 +1,9 @@
+branch_code,effective_date,branch_name,region,branch_status,successor_branch_code
+B01,2010-03-01,Central,Hong Kong Island,Active,
+B02,2012-06-15,Tsim Sha Tsui,Kowloon,Active,
+B02,2025-04-01,TST Harbour City,Kowloon,Active,
+B03,2015-09-01,Shatin,New Territories,Active,
+B03,2025-06-01,Shatin,New Territories,Closed,B04
+B04,2025-05-01,Tai Po,New Territories,Active,
+B05,2008-01-02,Mong Kok,Kowloon,Active,
+B05,2025-03-01,Mong Kok,Kowloon,Closed,B02

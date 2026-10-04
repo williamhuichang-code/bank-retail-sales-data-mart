@@ -1,0 +1,9 @@
+product_code,product_name,product_category,product_risk_level,fee_rate
+P01,Global Equity Fund,Mutual Fund,R4,0.015
+P02,Asia Bond Fund,Mutual Fund,R3,0.01
+P03,USD Money Market Fund,Mutual Fund,R1,0.0025
+P04,Whole Life Plan,Insurance,R2,0.03
+P05,Structured Note - Tech Basket,Structured Product,R5,0.02
+P06,3M Time Deposit Plus,Deposit,R1,0
+P07,US Treasury 2030,Bond,R2,0.005
+P08,Gold-Linked Deposit,Structured Product,R4,0.012

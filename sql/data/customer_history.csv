@@ -1,0 +1,102 @@
+cust_id,effective_date,cust_segment,cust_risk_profile,change_reason
+0045128803,2020-01-01,Mass,R2,Onboarding (date assumed)
+0045128803,2025-06-01,Mass,R4,Risk re-assessment
+0055245666,2020-01-01,Affluent,R4,Onboarding (date assumed)
+0071204459,2020-01-01,Private,R4,Onboarding (date assumed)
+0071204459,2025-04-01,Private,R5,Risk re-assessment
+0098231104,2020-01-01,Affluent,R3,Onboarding (date assumed)
+0098231104,2025-06-20,Affluent,R5,Risk re-assessment
+0017091225,2020-01-01,Mass,R3,Onboarding (date assumed)
+0017091225,2025-05-16,Mass,R4,Risk re-assessment
+0044509861,2020-01-01,Private,R4,Onboarding (date assumed)
+0097309879,2020-01-01,Affluent,R4,Onboarding (date assumed)
+0097309879,2025-02-12,Affluent,R5,Risk re-assessment
+0055691590,2020-01-01,Private,R5,Onboarding (date assumed)
+0016329105,2020-01-01,Mass,R1,Onboarding (date assumed)
+0020737016,2020-01-01,Affluent,R3,Onboarding (date assumed)
+0020737016,2025-05-20,Affluent,R4,Risk re-assessment
+0020737016,2025-05-21,Private,R4,Segment change
+0056294337,2020-01-01,Affluent,R3,Onboarding (date assumed)
+0032025226,2020-01-01,Affluent,R3,Onboarding (date assumed)
+0017404366,2020-01-01,Mass,R3,Onboarding (date assumed)
+0017885621,2020-01-01,Mass,R4,Onboarding (date assumed)
+0053083943,2020-01-01,Affluent,R3,Onboarding (date assumed)
+0053083943,2025-05-15,Affluent,R4,Risk re-assessment
+0083289666,2020-01-01,Mass,R2,Onboarding (date assumed)
+0057825472,2020-01-01,Affluent,R3,Onboarding (date assumed)
+0086890319,2020-01-01,Mass,R3,Onboarding (date assumed)
+0019295191,2020-01-01,Affluent,R5,Onboarding (date assumed)
+0019295191,2025-05-25,Private,R5,Segment change
+0057619105,2020-01-01,Mass,R3,Onboarding (date assumed)
+1003425081,2020-01-01,Affluent,R2,Onboarding (date assumed)
+1272084999,2020-01-01,Mass,R3,Onboarding (date assumed)
+1272232039,2020-01-01,Private,R4,Onboarding (date assumed)
+1345733448,2020-01-01,Private,R3,Onboarding (date assumed)
+1369982817,2020-01-01,Mass,R1,Onboarding (date assumed)
+1777759401,2020-01-01,Affluent,R3,Onboarding (date assumed)
+1809923365,2020-01-01,Affluent,R3,Onboarding (date assumed)
+1809923365,2025-05-15,Private,R3,Segment change
+1842303686,2020-01-01,Mass,R5,Onboarding (date assumed)
+2203391157,2020-01-01,Affluent,R2,Onboarding (date assumed)
+2203391157,2025-03-01,Mass,R2,Segment change
+2277513075,2020-01-01,Affluent,R2,Onboarding (date assumed)
+2277513075,2025-05-07,Private,R2,Segment change
+2531925273,2020-01-01,Affluent,R4,Onboarding (date assumed)
+2639172015,2020-01-01,Private,R5,Onboarding (date assumed)
+2751672943,2020-01-01,Private,R4,Onboarding (date assumed)
+2783886952,2020-01-01,Affluent,R4,Onboarding (date assumed)
+2783886952,2025-03-13,Affluent,R5,Risk re-assessment
+2897597490,2020-01-01,Mass,R4,Onboarding (date assumed)
+3179016710,2020-01-01,Mass,R4,Onboarding (date assumed)
+3207719945,2020-01-01,Private,R5,Onboarding (date assumed)
+3328832319,2020-01-01,Mass,R4,Onboarding (date assumed)
+3694833017,2020-01-01,Mass,R2,Onboarding (date assumed)
+3814816203,2020-01-01,Affluent,R2,Onboarding (date assumed)
+3895453336,2020-01-01,Mass,R5,Onboarding (date assumed)
+4085391267,2020-01-01,Private,R5,Onboarding (date assumed)
+4100023781,2020-01-01,Affluent,R3,Onboarding (date assumed)
+4100023781,2025-03-05,Affluent,R4,Risk re-assessment
+4206911990,2020-01-01,Affluent,R4,Onboarding (date assumed)
+4256229846,2020-01-01,Mass,R4,Onboarding (date assumed)
+4256229846,2025-06-05,Mass,R5,Risk re-assessment
+4309083358,2020-01-01,Affluent,R3,Onboarding (date assumed)
+4387664751,2020-01-01,Mass,R1,Onboarding (date assumed)
+4402838304,2020-01-01,Mass,R4,Onboarding (date assumed)
+5134554812,2020-01-01,Mass,R3,Onboarding (date assumed)
+5138950247,2020-01-01,Private,R4,Onboarding (date assumed)
+5185642036,2020-01-01,Private,R5,Onboarding (date assumed)
+5379913896,2020-08-17,Mass,R4,Onboarding (date assumed)
+5505973626,2020-01-01,Affluent,R3,Onboarding (date assumed)
+5505973626,2025-04-17,Affluent,R4,Risk re-assessment
+5512098834,2020-01-01,Mass,R3,Onboarding (date assumed)
+5512098834,2025-03-28,Mass,R4,Risk re-assessment
+5512098834,2025-04-01,Affluent,R4,Segment change
+5637223790,2020-01-01,Mass,R5,Onboarding (date assumed)
+5910720333,2020-01-01,Affluent,R4,Onboarding (date assumed)
+5990686117,2020-01-01,Affluent,R4,Onboarding (date assumed)
+6106674386,2020-01-01,Mass,R3,Onboarding (date assumed)
+6130984472,2020-01-01,Mass,R1,Onboarding (date assumed)
+6429278715,2020-01-01,Private,R4,Onboarding (date assumed)
+6712542998,2020-01-01,Affluent,R3,Onboarding (date assumed)
+6737003611,2020-01-01,Mass,R3,Onboarding (date assumed)
+6989217536,2020-01-01,Affluent,R3,Onboarding (date assumed)
+7186063045,2020-01-01,Affluent,R3,Onboarding (date assumed)
+7186063045,2025-05-19,Private,R3,Segment change
+7504397999,2020-01-01,Private,R3,Onboarding (date assumed)
+7569827088,2020-01-01,Affluent,R3,Onboarding (date assumed)
+7569827088,2025-02-08,Affluent,R4,Risk re-assessment
+7667641457,2020-01-01,Mass,R2,Onboarding (date assumed)
+7667641457,2025-05-26,Affluent,R2,Segment change
+7745016628,2020-01-01,Private,R5,Onboarding (date assumed)
+8355315526,2020-01-01,Affluent,R4,Onboarding (date assumed)
+8383656346,2020-01-01,Mass,R3,Onboarding (date assumed)
+8487706006,2020-01-01,Private,R4,Onboarding (date assumed)
+8523286479,2020-01-01,Affluent,R3,Onboarding (date assumed)
+8585205808,2020-01-01,Mass,R2,Onboarding (date assumed)
+8805210249,2020-01-01,Mass,R4,Onboarding (date assumed)
+8871289681,2020-01-01,Affluent,R3,Onboarding (date assumed)
+8964346572,2020-01-01,Affluent,R4,Onboarding (date assumed)
+9448071998,2020-01-01,Mass,R1,Onboarding (date assumed)
+9567133447,2020-01-01,Affluent,R3,Onboarding (date assumed)
+9627692505,2020-01-01,Private,R2,Onboarding (date assumed)
+9794231618,2020-01-01,Mass,R5,Onboarding (date assumed)

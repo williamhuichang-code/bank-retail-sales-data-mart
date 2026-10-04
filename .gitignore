@@ -1,0 +1,10 @@
+# secrets
+.env
+# python
+__pycache__/
+*.pyc
+# logs
+logs/
+*.log
+# Excel lock files
+~$*
