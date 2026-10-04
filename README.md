@@ -44,6 +44,9 @@ raw log  ──►  clean + look up  ──►  3NF reference tables with histor
 | Data-quality checks | `13_checks` | `dq.checks`, `dq.summary` |
 | Reports | `14_report` | `mart.rpt_*` views |
 
+![The one big table in the Excel prototype: each sale with its date attributes, branch and product as of the sale date, and customer details looked up from the 3NF sheets](docs/images/excel_enriched_log.png)
+*`2_enriched_log` in the Excel prototype: every column after the raw fields is a live lookup or derived value. Header colours mark where each group comes from.*
+
 **Key decisions**
 
 - **Natural keys and append-only change logs.** Branch and customer history are stored as one row per change (`effective_date` only); `valid_to` and "current" views are derived. No surrogate keys needed.
